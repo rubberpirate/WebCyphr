@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/90abfad7-5e19-42b7-8fad-37ae72c954a0
 
 </div>
 
-# 🔒 Features of SecureMe Browser Extension
+# 🔒 Features of WebCyphr Browser Extension
   
 - 🛡️ Real-Time Threat Monitoring: Actively scans and blocks harmful or phishing websites while browsing.
 - 🚫 Website Blacklisting: Prevents access to a predefined list of malicious and phishing URLs.
